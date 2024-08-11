@@ -22,7 +22,7 @@ Additionally, you may need to install the required packages. You can do this by 
 ```R
 install.packages(c("ggplot2", "dplyr", "caret", "randomForest", "tidyverse"))
 ```
-If you're using Postit Cloud, ensure you have set up your environment correctly to run R scripts from the cloud.
+If you're using **Postit Cloud**, ensure you have set up your environment correctly to run R scripts from the cloud.
 
 ## Usage
 To use the scripts in this repository, clone the repository to your local machine:
@@ -36,8 +36,9 @@ Then, navigate to the project directory and open any of the R scripts in your pr
 
 This repository includes the following models:
 
-Linear Regression - A basic example of linear regression for predicting a continuous variable.
-Logistic Regression - A model for binary classification tasks.
-Decision Trees - An implementation of decision trees for classification and regression.
-Random Forests - A robust model that builds multiple decision trees for improved accuracy.
-K-Means Clustering - An unsupervised learning example for clustering data points.
+1. **Linear Regression** - A basic example of linear regression for predicting a continuous variable.
+2. **Logistic Regression** - A model for binary classification tasks.
+3. **Decision Trees** - An implementation of decision trees for classification and regression.
+4. **Random Forests** - A robust model that builds multiple decision trees for improved accuracy.
+5. **K-Means Clustering** - An unsupervised learning example for clustering data points.
+
